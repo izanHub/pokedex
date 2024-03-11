@@ -82,3 +82,9 @@ a{
     background-color: rgba(250, 250, 250, 0.5);
     position:  relative;
 }
+
+
+.evolucionC{
+    display: flex;
+    width: 33%;
+}
