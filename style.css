@@ -36,6 +36,10 @@
     font-size: 40px;
     text-align: center;
 }
+.tituloB{
+    font-size: 40px;
+    text-align: center;
+}
 
 .C{
     display: block;
@@ -43,6 +47,11 @@
     width: 300px;
 }
 .S{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+.B{
     display: block;
     margin: 0 auto;
     width: 300px;
