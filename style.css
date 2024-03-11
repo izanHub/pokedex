@@ -16,6 +16,10 @@
     background-image: url("img/imagenes/fondosquirtle.png");
     background-size: cover;
 }
+.fondoB{
+    background-image: url("");
+    background-size: cover;
+}
 
 
 .titulo{
