@@ -1,7 +1,13 @@
+*{
+    font-family: 'Pokemon Solid', sans-serif;
+}
 .fondoindex{
     background-image: url("img/imagenes/Kanto.png");
     background-size: cover;
-    font-family: 'Pokemon Solid', sans-serif;
+}
+.fondocharmander{
+    background-image: url("");
+    background-size: cover;
 }
 .titulo{
     font-size: 60px;
