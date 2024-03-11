@@ -12,7 +12,10 @@
     background-image: url("img/imagenes/fondocharmander.png");
     background-size: cover;
 }
-
+.fondoS{
+    background-image: url("img/imagenes/fondosquirtle.png");
+    background-size: cover;
+}
 
 
 .titulo{
@@ -31,7 +34,11 @@
     margin: 0 auto;
     width: 300px;
 }
-
+.S{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
 
 .lista {
     font-size: 30px;
