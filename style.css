@@ -7,7 +7,6 @@ body{
     font-size: 50px;
     text-align: center;
     background-color: rgba(250, 250, 250, 0.5);
-    position: absolute;
     border-radius: 10%;
 }
 .lista {
