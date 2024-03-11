@@ -1,7 +1,7 @@
 body{
     background-image: url("img/imagenes/Kanto.png");
     background-size: cover;
-    font-family: Fontemon;
+    font-family: 'Pokemon Solid', sans-serif;
 }
 .lista {
     font-size: 40px;
