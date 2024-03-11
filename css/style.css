@@ -1,3 +1,4 @@
 #fondoindex{
-    background-image: url(./img/imagenes/Kanto.png);
+    background-image: url("./img/imagenes/Kanto.png");
+    background-size: cover;
 }
