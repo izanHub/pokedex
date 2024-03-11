@@ -2,3 +2,7 @@ body{
     background-image: url("img/imagenes/Kanto.png");
     background-size: cover;
 }
+.lista {
+    font-size: 40px;
+    background-color: black;
+}
