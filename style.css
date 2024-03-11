@@ -5,5 +5,8 @@ body{
 .lista {
     font-size: 40px;
     color: black;
-    text-decoration: underline;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
 }
