@@ -1,4 +1,3 @@
-.h1{
-    text-align: center;
-    width: 100%;
+.fondo{
+    background-image: image(./img/imagenes/Kanto.jpg);
 }
