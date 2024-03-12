@@ -97,4 +97,5 @@ a{
     display: inline-block;
     width: 2em;
     text-align: center;
+    vertical-align: middle;
 }
