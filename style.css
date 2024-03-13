@@ -20,7 +20,9 @@ a{
     border-collapse: collapse;
     font-size: 20px;
 }
-
+.tipos{
+    margin-left: 24%;
+}
 
 .fondoindex{
     background-image: url("img/imagenes/Kanto.png");
